@@ -1,4 +1,4 @@
-# Exercise: Automating Web App Deployment with Monitoring Setup on Azure
+# Exercise: Automating Web App Deployment in Azure
 
 ## General Thoughts
 
