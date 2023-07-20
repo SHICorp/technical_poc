@@ -13,11 +13,13 @@
 
 1. Clone <https://github.com/SHICorp/technical_poc>
 2. Create new branch using the following format: `FirstNameLastNameYYYYMMDD`. For Example: `janesmith20230720`.
+3. Work w/ interviewer to get access to the Azure SHI Lab Subscription
+4. Use the Azure CLI to set up access to the Azure SHI Lab Subscription
 
 **Exercise Details:**
 
-1. **Infrastructure-as-Code (IaC) Setup**: Use Terraform to create:
-   - An Azure App Service plan and an App Service where you can host web application and supporting resources
+1. **Infrastructure-as-Code (IaC) Setup**:
+   - Use Terraform to create an Azure App Service plan and an App Service that can host a web application and supporting resources
 
 ## Extra Credit
 
