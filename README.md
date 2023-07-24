@@ -14,6 +14,7 @@
 1. Clone <https://github.com/SHICorp/technical_poc>
 2. Create new branch using the following format: `FirstNameLastNameYYYYMMDD`. For Example: `janesmith20230720`.
 3. Work w/ interviewer to get access to the Azure SHI Lab Subscription
+   - The interviewer will invite your to the SHI Lab Subscription using a personal email address you provide. The email address provided should be associated with a Microsoft Account.
 4. Use the Azure CLI to set up access to the Azure SHI Lab Subscription
 
 **Exercise Details:**
