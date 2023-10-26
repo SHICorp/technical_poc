@@ -4,7 +4,7 @@
 
 1. **Relax and Breath**
 2. Do not be afraid to ask questions.
-3. The exercise is "open book." Google and internet documentation are allowed.
+3. The assessment is conducted with resources available; you may use Google and refer to online documentation. However, it is important to note that while using ChatGPT is not strictly prohibited, its usage should be limited. The main focus of this exercise is to gauge your understanding and skills in Azure and Terraform, rather than your ability to utilize ChatGPT.
 4. Do not over complicate the solution. This exercise is not meant to be a bullet-proof production ready solution. Instead, you should think of it as proof-of-concept.
 
 ## Objective
